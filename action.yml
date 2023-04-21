@@ -85,7 +85,7 @@ inputs:
   SHOW_SHORT_INFO:
     required: false
     description: "Shows the short facts"
-    default: "True"
+    default: "false"
 
   SHOW_UPDATED_DATE:
     required: false
@@ -125,7 +125,7 @@ inputs:
   LOCALE:
     required: false
     description: "Show stats in your own language"
-    default: "en"
+    default: "cn"
 
   UPDATED_DATE_FORMAT:
     required: false
