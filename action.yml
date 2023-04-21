@@ -50,7 +50,7 @@ inputs:
   SHOW_COMMIT:
     required: false
     description: "Shows the number of commit graph in the dev metrics"
-    default: "True"
+    default: "false"
 
   SHOW_LANGUAGE:
     required: false
