@@ -125,7 +125,7 @@ inputs:
   LOCALE:
     required: false
     description: "Show stats in your own language"
-    default: "cn"
+    default: "zh"
 
   UPDATED_DATE_FORMAT:
     required: false
